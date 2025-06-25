@@ -468,3 +468,5 @@ applyFiltersBtn.addEventListener('click', () => {
     clearPlayer(); // Limpa mensagens anteriores e o player
     loadRandomLive(); // Força uma nova busca com as categorias atualizadas
 });
+
+//test
