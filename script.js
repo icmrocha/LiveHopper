@@ -1,10 +1,10 @@
 
 // script.js
-//  API_KEY = 'AIzaSyATH0UghO4r4yhyyydpPFYviLKvHypj7sk'
+//  API_KEY = 'checkfile'
 
 
 //chave da API do YouTube Data v3
-const API_KEY = 'AIzaSyATH0UghO4r4yhyyydpPFYviLKvHypj7sk'; 
+const API_KEY = 'checkfile'; 
 const BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
 // Elementos do DOM
